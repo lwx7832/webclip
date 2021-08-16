@@ -1,7 +1,3 @@
-# webclip
-
-相关介绍请查看我的blog  https://blog.jarhom.com/blog/html/15955624729823.html
-
 # iOS Web Clip生成和签名以及发布
 
 目前众多iOS开发者面对最多的烦恼莫过于App Store的上架问题，很多类型的App都没办法走正常方式上架，绝大部分公司和个人采用`企业签`和`超级签`的方式分发，这种方式最大问题在于掉签和成本；
